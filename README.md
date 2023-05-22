@@ -12,4 +12,4 @@ This repository contains my static resume website. It showcases my professional 
 
 ## Demo
 
-You can view the live demo of my static resume website [here](https://www.https://d390w2nizh1ucz.cloudfront.net/.com).
+You can view the live demo of my static resume website [here](https://d390w2nizh1ucz.cloudfront.net/.com).
