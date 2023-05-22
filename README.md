@@ -1,4 +1,4 @@
-# MY-STATIC-RESUME
+# MY STATIC RESUME
 
 This repository contains my static resume website. It showcases my professional experience, education,skills, interests and accomplishments in a simple and professional manner. The website was built using HTML.
 
