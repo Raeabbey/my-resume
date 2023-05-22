@@ -1,1 +1,1 @@
-# my-resume
+# MY-STATIC-RESUME
