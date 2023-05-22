@@ -4,8 +4,8 @@ This repository contains my static resume website. It showcases my professional 
 
 ## Table of Contents
 
-- [PROFESSIONAL SUMMARY](#professional summary)
-- [PROFESSIONAL EXPERIENCE](#professional experience)
+- [PROFESSIONAL SUMMARY](#professional-summary)
+- [PROFESSIONAL EXPERIENCE](#professional-experience)
 - [EDUCATION](#education)
 - [SKILLS](#skills)
 - [INTERESTS](#interests)
